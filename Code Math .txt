@@ -1,0 +1,7 @@
+Code javascript
+Math.floor(Math.random() * 3) ;
+
+0 , 1 , 2
+
+
+3:14 in video
